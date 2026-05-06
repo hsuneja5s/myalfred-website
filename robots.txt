@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /.well-known/apple-app-site-association
+Allow: /.well-known/assetlinks.json
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://www.myalfred.com/sitemap_index.xml
